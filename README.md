@@ -5,7 +5,12 @@ Transient oscillations in network activity upon sensory stimulation have been re
 
 
 ### Usage
-The python script 'SNR_Heat_Map_Plot.py' will reproduce the key results shown in the Figure 4 of the manuscript. Note that this may take some time. 
+The python script 'AAAH_2020_Fig2_Plot.py.py' will reproduce the key results shown in the Figure 4 of the manuscript. Note that this may take some time. 
+
+The python script 'AAAH_2020_SNR_Heat_Map_Plot.py' will reproduce the key results shown in the Figure 4 of the manuscript. Note that this may take some time. 
+
+
+
 More code will be provided to reproduce other results. 
 
 #### Requirements
